@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Google Keep Tab",
   "description": "__MSG_extensionDescription__",
-  "version": "0.3",
+  "version": "0.3.0.2",
   "author": "Nicola Ferralis",
   "homepage_url": "https://github.com/feranick/Thunderbird-Google-Keep-Tab/",
   "browser_specific_settings": {
