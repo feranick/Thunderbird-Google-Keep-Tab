@@ -1,7 +1,7 @@
 # Google Keep Tab
 Unofficial Google Keep add-on for Thunderbird, it adds a button in Spaces that opens a Google Keep tab in Thunderbird. It also add an entry in the contextual menu, so when you select a text you can directly create a Google Keep Note with it.
 
-The [home page](https://addons.mozilla.org/thunderbird/addon/thunderckeep/) of the extension contains some pictures and reviews.
+The [home page](https://addons.thunderbird.net/en-US/thunderbird/addon/google-keep-spaces-tab/) of the extension contains some pictures and reviews.
 
 #### Installing 
 A new Google Keep icon should appear in the Spaces Toolbar of Thunderbird. Click to open.
