@@ -1,6 +1,18 @@
 {
   "extensionDescription": {
-    "message": "Aggiunge un bottone per aprire Google Keep in una nuova tab.",
+    "message": "Aggiunge un bottone e un menu contestuale per aprire Google Keep e salvare il testo selezionato.",
     "description": "Descrizione dell'estensione."
+  },
+  "contextMenuTitle": {
+    "message": "Crea nota in Google Keep",
+    "description": "Title of the context menu item"
+  },
+  "keepTakeANoteAria": {
+    "message": "Scrivi una nota...",
+    "description": "Aria label for Keep's 'Take a note...' input"
+  },
+  "keepNoteTextAria": {
+    "message": "Testo della nota",
+    "description": "Aria label for Keep's 'Note text' input"
   }
 }

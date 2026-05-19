@@ -1,6 +1,18 @@
 {
   "extensionDescription": {
-    "message": "Fügt eine Schaltfläche zum Öffnen von Google Keep in einem neuen Tab hinzu.",
+    "message": "Fügt eine Schaltfläche und ein Kontextmenü hinzu, um Google Keep zu öffnen und markierten Text zu speichern.",
     "description": "Description of the extension."
+  },
+  "contextMenuTitle": {
+    "message": "Notiz in Google Keep erstellen",
+    "description": "Title of the context menu item"
+  },
+  "keepTakeANoteAria": {
+    "message": "Notiz schreiben…",
+    "description": "Aria label for Keep's 'Take a note...' input"
+  },
+  "keepNoteTextAria": {
+    "message": "Notiztext",
+    "description": "Aria label for Keep's 'Note text' input"
   }
 }
